@@ -21,4 +21,4 @@ Techlead | Frontend Developer | 5+ лет
 
 <p align="left"> <a href="https://www.linkedin.com/in/yaroslav-semenchenko-frontend-developer" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/ynsem)
+![Leetcode Stats](https://leetcard.jacoblin.cool/ynsem) ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
