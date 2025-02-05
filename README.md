@@ -1,4 +1,4 @@
-TeamLead | Techlead | Frontend Developer | 6+ лет
+Frontend Developer | 6+ лет
 -----------------------------
 
 Привет!    
